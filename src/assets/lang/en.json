@@ -1,0 +1,15 @@
+{
+    "something": "Oops!, Something went wrong",
+    "authAPI": {
+        "invalid_token": "Invalid authorisation token",
+        "auth_success": "Authorisation successfully",
+        "forbidden": "forbidden",
+        "invalid_username": "Username can not be empty!",
+        "invalid_password": "Password can not be empty!",
+        "error_auth": "Some error occurred while Authenticating",
+        "auth_failed": "Authorization failed",
+        "email_no_exists": "This account does not exist! Please try again.",
+        "email_sent": "Email sent successfully",
+        "email_not_sent": "Some error occurred! Could not send email."
+    }
+}
